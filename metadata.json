@@ -1,0 +1,7 @@
+{
+  "name": "Mahmoud Elfardy Portfolio & AI Assistant",
+  "description": "A professional portfolio for graphic designer Mahmoud Elfardy featuring a high-end gallery and a Gemini-powered intelligent assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
